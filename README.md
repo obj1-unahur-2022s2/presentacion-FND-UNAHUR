@@ -1,4 +1,4 @@
-![Logo UNAHUR](./assets/fotoCV.jpg)
+![Mi foto de GIT](./assets/fondoCV.jpg)
 
 Bienvenidos a
 # Mi presentación de GitHub
