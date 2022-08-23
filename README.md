@@ -1,36 +1,31 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+![Logo UNAHUR](./assets/fotoCV.jpg)
 
 Bienvenidos a
-# Programación con objetos I
+# Mi presentación de GitHub
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+## Mi nombre es **Federico Nicolas Depaulo**, y soy estudiante de la carrera Tecnicatura Universitaria en Programación.
 
 ```
 object programacionConObjetos { 
     method saludar() { 
-        return  "Bienvenidxs!" 
+        return  "Hola mundo!" 
     }
 }
 ```
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **noche**: Martes 18hs.
-* Horario comisión **tarde**: Jueves 14hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Lucas Bonadeo y Matías Müller
+## Datos sobre mi y la cursada :book:
+* Tengo 23 años
+* Estoy en la comisión **noche**: Martes 18hs.
+* Este cuatrimestre los profesores son Gerardo González y Hernán Coniglio
+* Además los colaboradores son Valentino Chiappanni, Lucas Bonadeo y Matías Müller
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1FTLWZ96uVd8V1xNkm2wvaUHhfS9MiC_LEomQYwJhI6I/edit#gid=1006593733) de clases.
-- [x] [Matricularse](https://discord.gg/RnAwZsSwdw) y ver el canal de Discord.
-- [x] [Clase de consulta](https://meet.google.com/ova-hohx-gzf) de los sábados 15 a 17 hs.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
+## Links y cosas importantes :monocle_face:
+- [x] [Mi LinkedIn](https://www.linkedin.com/in/federico-depaulo-2805a1242/)
+- [x] [Mi Gmail de la facultad] <federiconicolas.depaulo@estudiantes.unahur.edu.ar
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
+### Mis gustos
+* Me gusta cualquier helado que una persona es muy dulce.
+* Me gusta jugar de arquero en fútbol y soy hincha de boca. :blue_heart: :yellow_heart: :blue_heart:
+* Soy fan de la saga Resident Evil y uno de mis favoritos es Resident Evil 4. :zombie_man:
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+#Gracias por ver mi presentación!
