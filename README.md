@@ -24,7 +24,7 @@ object programacionConObjetos {
 - [x] [Mi Gmail de la facultad] <federiconicolas.depaulo@estudiantes.unahur.edu.ar
 
 ### Mis gustos
-* Me gusta cualquier helado que una persona es muy dulce.
+* Me gusta cualquier helado sobre el cual una persona diga que es muy dulce.
 * Me gusta jugar de arquero en fútbol y soy hincha de boca. :blue_heart: :yellow_heart: :blue_heart:
 * Soy fan de la saga Resident Evil y uno de mis favoritos es Resident Evil 4. :zombie_man:
 
